@@ -1,3 +1,5 @@
+![CI](https://github.com/dant1k/telegram-crypto-bot/actions/workflows/ci.yml/badge.svg)
+
 # Telegram Crypto Bot
 Команда: `/price BTC` (доступны BTC/ETH/SOL).
 
