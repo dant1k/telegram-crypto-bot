@@ -9,3 +9,6 @@
 BOT_TOKEN=ваш_токен npx ts-node src/index.ts
 
 2) Напиши боту: `/price BTC`
+
+## DOGE support
+- Добавлена команда: `/price DOGE` (публичный план, см. Issue #15)
